@@ -1,0 +1,11 @@
+#_________________________ Files
+*.sln
+*.VC.db
+*.opendb
+
+#_________________________ Folders
+.vs/
+Binaries/
+Intermediate/
+Saved/
+Build/
